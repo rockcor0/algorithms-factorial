@@ -38,3 +38,8 @@ Thumbs.db
 
 #Folders
 /bin
+/.settings
+
+#Projects files
+.classpath
+.project
